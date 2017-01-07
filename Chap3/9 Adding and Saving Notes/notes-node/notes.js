@@ -11,10 +11,10 @@ var addNote = (title, body) => {
         };
 
     try {
-        var noteString = fs.readFileSync('notes-data.json');
-        notes = JSON.parse(noteString);
+        var noteString = fs.readFileSync('notes-data.json'),
+            notes = JSON.parse(noteString);
     } catch (e) {
-        
+
     }
 
     var duplicateNotes = notes.filter((note) => note.title === title);
