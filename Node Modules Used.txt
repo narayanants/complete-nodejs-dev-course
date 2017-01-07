@@ -2,6 +2,7 @@ Node Modules Used:
 =================
 
 
-nodemon 
-lodash
-bluebird
+nodemon - Restarting node apps
+lodash - dealing with arrays and objects
+bluebird - Promise library for performance
+yargs - for command line args from terminal
