@@ -1,0 +1,7 @@
+Node Modules Used:
+=================
+
+
+nodemon 
+lodash
+bluebird
