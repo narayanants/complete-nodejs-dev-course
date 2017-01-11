@@ -50,4 +50,3 @@ if(command === 'add'){
     console.log('Command not recognized');
 }
 
-
