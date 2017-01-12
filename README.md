@@ -1,2 +1,2 @@
 # complete-nodejs-dev-course
-Complete Node.js Dev Course 2.0
+Complete Node.js Developer Course 2.0 By Andrew Mead
